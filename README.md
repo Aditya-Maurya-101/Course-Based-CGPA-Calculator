@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="120" alt="Java Logo" />
+</p>
 # CGPA Calculator
 
 A simple Java console application that calculates a student's CGPA based on semester SGPA values and shows the current performance.
