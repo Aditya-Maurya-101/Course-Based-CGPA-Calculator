@@ -1,0 +1,17 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore IDE and build system files
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Optional: Ignore IntelliJ project files
+/.idea/
+*.iml
+
+# Optional: Ignore Eclipse project files
+/.classpath
+/.project
+/.settings/
