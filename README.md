@@ -4,11 +4,21 @@ A simple Java console application that calculates a student's CGPA based on seme
 
 ## Features
 
-- Course selection from a fixed list of programs
-- Semester-by-semester SGPA input
-- CGPA calculation ignoring semesters marked as pending
-- Performance classification based on CGPA
-- Clean report-style output
+- Java console application for calculating CGPA
+- Select course and semester count from a predefined list
+- Enter SGPA values with support for pending results (0 or -1)
+- CGPA calculation skips semesters that are pending or incomplete
+- Performance classification based on CGPA thresholds
+- Clear formatted report card output with student details
+- Input validation for SGPA values between 0 and 10
+
+## Technologies Used
+
+- Java SE (console application)
+- `Scanner` for user input
+- `ArrayList` for storing semester SGPA values
+- Object-oriented design with `Course`, `Student`, and `CGPACalculator`
+- String formatting for structured console report output
 
 ## How to run
 
